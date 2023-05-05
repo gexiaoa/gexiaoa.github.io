@@ -24,6 +24,8 @@ html.dark {
 }
 
 body {
+  background-image: url("fc1c47fa420dc7346b80be0aed006305_1.jpg");
+  background-size: cover;
   font-family: 'Heebo', sans-serif;
   display: flex;
   align-items: center;
